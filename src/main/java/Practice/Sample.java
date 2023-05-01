@@ -1,10 +1,11 @@
 package Practice;
 
-public class Demo {
+public class Sample {
 
 	public static void main(String[] args) {
-		System.out.println("HI THIS IS MY FIRST COMMIT");
+		
+		System.out.println("Sample By FW Dev");
+
 	}
 
 }
- 
